@@ -1,0 +1,15 @@
+Node.js: v22.10.0
+NPM: 10.9.0
+Browser (ver): Chrome 131.0.6778.70
+OS: MacOS 15.1.1
+Computer architecture: ARM64
+
+How would you test your code?
+- Test the complete flow from UI interaction.
+- Test server/client seperately through Postman.
+
+How AJAX helps the web application?
+- Loading mailboxes and messages without page refreshes.
+- Asyncly deleting emails while keeping the UI reponsive.
+- Fetching message bodies on demand as users click different emails.
+- Updating contact lists dynamically.

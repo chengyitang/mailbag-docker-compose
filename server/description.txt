@@ -1,0 +1,8 @@
+Node.js: v22.10.0
+NPM: 10.9.0
+Browser (ver): Chrome 131.0.6778.70
+OS: MacOS 15.1.1
+Computer architecture: ARM64
+
+How AJAX helps your web application:
+- 

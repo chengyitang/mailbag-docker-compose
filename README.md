@@ -1,2 +1,3 @@
 # mailbag-docker-compose
-Practicing containerizing a React application for running on AWS EC2.
+
+- Containerizing a Node.js + React application application for running on AWS EC2.

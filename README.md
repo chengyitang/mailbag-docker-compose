@@ -16,8 +16,6 @@ MailBag is a modern email client that provides:
 
 ## Architecture
 
-The system consists of two main components:
-
 ### Client (Frontend)
 - React-based SPA with TypeScript
 - Material-UI components
